@@ -1,16 +1,27 @@
-### Hi there 👋
+# :wave: Hi. I am Telephone Line.
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![:0 my discord](https://img.shields.io/discord/999575220924977152)](https://discord.gg/S6QeyfyqjK)
 
-<!--
-**telephone-line/telephone-line** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```py
+>>> languages = ['Python', 'JavaScript', 'C#']
+>>> for i in languages:
+...    print(i)
+...
+Python
+JavaScript
+C#
+```
+**About me:**
+- Wannabe Java dev
+- Average JavaScript enjoyer
+- Malware enthusiast
+- Enjoys music
+- Image artist
+- ARG enjoyer
+- telephone line#0001
+- the above is subject to change
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Want a random joke?**
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
